@@ -2,4 +2,4 @@
  Curso de Aula em vídeo HTML e CSS
 
 
-<a href="https://github.com/vmaxbh/HTML-CSS_curso/android.html">Executar o exercicio desafio 10</a>
+<a href="https://vmaxbh.github.io/HTML-CSS_curso/android.html">Executar o exercicio desafio 10</a>
