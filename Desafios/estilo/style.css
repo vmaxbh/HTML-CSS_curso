@@ -142,6 +142,8 @@ main a:hover {
 }
 
 div.video {
+    position: relative;
+    background-size: 100% 100%;
     background-color: var(--cor5);
     margin: 0px -20px 30px;
     padding: 20px;
@@ -152,8 +154,9 @@ div.video {
     
 }
 
-div.video >iframe{
-    left: 100%;
+div.video >iframe {
+    position: absolute;
+}
     
    
    

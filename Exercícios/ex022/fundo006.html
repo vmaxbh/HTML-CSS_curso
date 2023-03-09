@@ -11,8 +11,12 @@
             background-color:black;
             background-image: url(imagens/wallpaper002.jpg);
             background-position: center top;
-            background-repeat: repeat;
+            background-repeat:no-repeat;
             background-size: cover;
+            background-attachment: fixed;
+             /*Shorthand - background color > image > position > repeat > attachment , toda configuração acima pode ser substituida pelo codigo abaixo*/
+             /*background:black url(imagens/wallpaper002.jpg) center no-repeat fixed;
+             background-size: cover;*/
 
         }
         main{
@@ -22,7 +26,11 @@
             margin: auto;
             border: 2px solid darkblue;
             border-radius: 15px;
-
+            
+           
+        }
+        h1{
+            text-align: center;
         }
         
     </style>
