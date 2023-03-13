@@ -8,3 +8,5 @@
 
 <a href="https://vmaxbh.github.io/HTML-CSS_curso/Exercícios/ex022/fundo006.html" target="_blank">Executar o exercicio  022 exemplo de imagens de fundo</a>
 
+<a href="https://vmaxbh.github.io/HTML-CSS_curso/Desafios/Desafio012/index.html" target="_blank">Desafio 012 projeto cordel</a>
+
